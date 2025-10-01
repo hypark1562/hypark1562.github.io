@@ -9,7 +9,7 @@ header:
     - label: "Button"
       url: "/sample/"
 excerpt: " "
-intro:
+intro: Hee Yeon Park / Department of Artificial Intelligence
   - excerpt: ""
 ---
 
